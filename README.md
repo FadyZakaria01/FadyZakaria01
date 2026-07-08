@@ -17,7 +17,7 @@
 - ☕ Backend Java Developer
 - 🌱 Currently learning **Spring Boot & REST APIs**
 - 💾 Interested in **Databases, Backend Architecture, and Clean Code**
-- 🚀 Working towards becoming a **Full Stack Java Developer**
+- 🚀 Working towards becoming a **Backend Java Developer**
 - 📚 Computer Science Student
 - 💡 Always learning new technologies
 

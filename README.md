@@ -63,7 +63,7 @@ public class FadyZakaria {
         "GitHub"
     };
 
-    String goal = "Become a Professional Full Stack Java Developer";
+    String goal = "Become a Professional Backend Java Developer";
 }
 ```
 

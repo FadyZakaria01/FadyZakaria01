@@ -107,12 +107,12 @@ public class FadyZakaria {
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/YOUR_USERNAME">
-<img src="https://www.facebook.com/profile.php?id=100025669906295-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://www.facebook.com/profile.php?id=100025669906295" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME">
-<img src="https://www.instagram.com/fadyzakaria89?igsh=MWk1YXQ0ZWFldHNnaw==-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/fadyzakaria89/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>

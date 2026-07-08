@@ -4,43 +4,45 @@
 
 ### ☕ Backend Java Developer | Spring Boot Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Java+Developer;Spring+Boot+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Java+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub!" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=FadyZakaria01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - ☕ Backend Java Developer
-- 🌱 Currently learning **Spring Boot & REST APIs**
-- 💾 Interested in **Databases, Backend Architecture, and Clean Code**
-- 🚀 Working towards becoming a **Backend Java Developer**
+- 🌱 Currently learning **Spring Boot**, **REST APIs**, and **Backend Development**
+- 💾 Passionate about **Java**, **Databases**, **Clean Code**, and **Software Architecture**
+- 🚀 Building scalable backend applications
 - 📚 Computer Science Student
-- 💡 Always learning new technologies
+- 💡 Always learning new technologies and improving my programming skills
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-### Database
+### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -49,12 +51,14 @@
 
 ---
 
+# ☕ Java Code
+
 ```java
 public class FadyZakaria {
 
-    String role = "Backend Java Developer";
+    private final String role = "Backend Java Developer";
 
-    String[] skills = {
+    private final String[] skills = {
         "Java",
         "Spring Boot",
         "REST APIs",
@@ -63,27 +67,62 @@ public class FadyZakaria {
         "GitHub"
     };
 
-    String goal = "Become a Professional Backend Java Developer";
+    private final String goal =
+            "Become a Professional Backend Java Developer";
+
+    public void sayHi() {
+        System.out.println("Welcome to my GitHub Profile!");
+    }
 }
 ```
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FadyZakaria01&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyZakaria01&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FadyZakaria01&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/FadyZakaria01" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fady-zakaria-50bb35378" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/YOUR_USERNAME">
+<img src="https://www.facebook.com/profile.php?id=100025669906295-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://www.instagram.com/fadyzakaria89?igsh=MWk1YXQ0ZWFldHNnaw==-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
